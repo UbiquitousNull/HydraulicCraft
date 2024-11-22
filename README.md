@@ -1,2 +1,2 @@
-# HydraulicCraft
-HydraulicCraft is a mod for Minecraft Java edition. 
+# HydraulicCraft wiki
+This branch contains data for the wiki.
